@@ -1,4 +1,4 @@
-import { KfxWebSDK } from 'kfx-html5-plugin';
+import KfxWebSDK  from 'kfx-html5-plugin';
 
 export function Capture() {
     console.log(KfxWebSDK.getoptions());
